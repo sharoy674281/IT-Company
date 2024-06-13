@@ -8,7 +8,7 @@ const Header = () => {
 			<h2 className="text-brownShade text-sm mt-1 mb-2">
 				Web Development, Marketing, Chat-bots
 			</h2>
-			<img src="/images/ai picture.jpg" className="h-auto w-52" alt="" />
+			<img src="src/images/ai picture.jpg" className="h-auto w-52" alt="" />
 			<p className="text-white mt-4 mb-4 text-sm font-[arial]">
 				Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
 				voluptates reiciendis sed harum ut illo consequuntur deserunt. Nisi
