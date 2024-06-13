@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-color: #080404;
+	background-image: radial-gradient(rgb(37, 37, 37) 1px, transparent 1px);
+	background-size: 20px 20px; 
+}
+
+header {
+  font-family: monospace;
+}
+
